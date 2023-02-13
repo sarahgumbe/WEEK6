@@ -23,6 +23,8 @@ Mobile: +254 712 504 303 Kisumu, Kenya Email: gumbe12@gmail.com https://github.c
 
 Mobile: +254 714 895 246 Nairobi, Kenya Email; mbuthiapetermbuthia@gmail.com https://github.com/Mbuthiapeter
 
+Mobile: +254 721 422 365 Nairobu, Kenya Email; jomwasi@gmail.com https://github.com/jomwasi
+
 The MIT License (MIT) Copyright (c) 2022 .Sarah Gumbe,gumbe12@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the 
