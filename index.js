@@ -3,6 +3,7 @@ const express = require('express');
 const mongoose =require('mongoose');
 require('dotenv').config();
 //console.log(process.env)
+mongoose.set('strictQuery', true);
 
 const CBCSTUDENTSRoutes = require('./routes/CBCSTUDENTS');
 
@@ -28,7 +29,7 @@ const app = express();
 app.use(express.json());
 
 
-app.use('/CBCSTUDENTS',CBCSTUDENTSRoutes);
+app.use("/CBCSTUDENTS",CBCSTUDENTSRoutes);
 
 
 app.listen(PORT, () => {
