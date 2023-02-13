@@ -5,7 +5,7 @@ require('dotenv').config();
 //console.log(process.env)
 mongoose.set('strictQuery', true);
 
-const cbcstudentsRoutes = require('./routes/CBCSTUDENTS');
+const cbcstudentsRoutes = require('./Routes/CBCSTUDENTS');
 
 const PORT = process.env.PORT;
 //connecting app to mongodb
