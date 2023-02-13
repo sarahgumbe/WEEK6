@@ -5,7 +5,7 @@ require('dotenv').config();
 //console.log(process.env)
 mongoose.set('strictQuery', true);
 
-const CBCSTUDENTSRoutes = require('./routes/CBCSTUDENTS');
+const cbcstudentsRoutes = require('./routes/CBCSTUDENTS');
 
 const PORT = process.env.PORT;
 //connecting app to mongodb
@@ -29,7 +29,7 @@ const app = express();
 app.use(express.json());
 
 
-app.use("/CBCSTUDENTS",CBCSTUDENTSRoutes);
+app.use("/CBCSTUDENTS",cbcstudentsRoutes);
 
 
 app.listen(PORT, () => {
