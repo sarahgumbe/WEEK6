@@ -20,6 +20,8 @@ contributios to the code to make it better than it is.
 Contributors:
 
 Mobile: +254 712 504 303 Kisumu, Kenya Email: gumbe12@gmail.com https://github.com/sarahgumbe
+Mobile: +254 721 422 365 Nairobi,Joy Mwasi
+Mobile: +254 714 895 246 Nairobi,Peter Irungu
 
 The MIT License (MIT) Copyright (c) 2022 .Sarah Gumbe,gumbe12@gmail.com
 
