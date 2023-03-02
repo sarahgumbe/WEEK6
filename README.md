@@ -28,7 +28,7 @@ Mobile: +254 712 504 303 Kisumu, Kenya Email: gumbe12@gmail.com https://github.c
 Mobile: +254 712 504 303 Kisumu, Kenya Email: gumbe12@gmail.com https://github.com/sarahgumbe
 
 The MIT License (MIT) Copyright (c) 2022 .Sarah Gumbe,gumbe12@gmail.com
-
+The MIT License (MIT) Copyright (c) 2022 .Sarah Gumbe,gumbe12@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the 
 Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
