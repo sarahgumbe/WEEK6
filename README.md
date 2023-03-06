@@ -42,3 +42,4 @@ week6pl
 learning purposes
 learning purposes2
 learning purposes3
+automatic deployment to render learning
